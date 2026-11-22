@@ -1,0 +1,24 @@
+## Build and output folders
+bin/
+obj/
+publish_win64/
+*.zip
+
+## Visual Studio & Rider & VS Code
+.vs/
+.vscode/
+*.user
+*.userprefs
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Temporary / Logs
+*.log
+*.tmp
+
+## OS generated
+[Tt]humbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
